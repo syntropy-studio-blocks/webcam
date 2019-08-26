@@ -1,0 +1,21 @@
+{
+  "name": "block-template",
+  "version": "1.0.0",
+  "description": "Block description goes here",
+  "main": "code.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/block-template.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "block",
+    "template"
+  ],
+  "author": "<Your name here>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/block-template/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/block-template#readme"
+}
